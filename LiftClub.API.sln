@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiftClub.API", "LiftClub.API\LiftClub.API.csproj", "{5C1427D6-642F-4701-A695-50E27BF14780}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C1427D6-642F-4701-A695-50E27BF14780}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C1427D6-642F-4701-A695-50E27BF14780}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C1427D6-642F-4701-A695-50E27BF14780}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C1427D6-642F-4701-A695-50E27BF14780}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD0C0E4C-F694-4397-ABE6-D4CEF2A02577}
+	EndGlobalSection
+EndGlobal
